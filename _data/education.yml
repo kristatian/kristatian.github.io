@@ -1,10 +1,10 @@
-- course: BSc Computer Science
-  institute: University of Birmingham
-  dates: 2018 - 2021
+- course: BEng Computer Engineering
+  institute: Ryerson University
+  dates: 2018 - 2023
   logo: uob.png
   
-- course: Explorer Fellow
-  institute: MLH Fellowship
+- course: Database Systems
+  institute: Ryerson University
   dates: Fall 2020
   logo: fellowship.svg
   
